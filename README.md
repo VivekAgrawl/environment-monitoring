@@ -6,12 +6,19 @@ This project has trained me on how to use SQL to analyze a real-world database, 
 
 ### Module 1 Data Preprocessing
 Task 1. Preprocessing the data
+
 Task 2. Renaming the columns
+
 Task 3. Checking for null values
+
 Task 4. Removing duplicates
+
 Task 5. Handling missing values
+
 Task 6. Data type conversion
+
 Task 7. Exporting the cleaned dataset
+
 Task 8. Generate tables using the cleaned dataset
 
 ### Data Analysis using SQL
